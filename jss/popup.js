@@ -1,4 +1,3 @@
-﻿
 //BẠN SỬA MÃNG BÊN DƯỚI, MỖI PHẦN TỬ LÀ MỘT KÍ TỰ TÍNH LUỐN KÍ TỰ TRẮNG NHÉ! BẠN CÓ THỂ THÊM NHIỀU PHẦN TỬ HƠN KHÔNG NHẤT THIẾT LÀ 28
 //XEM KĨ VIDEO CỦA MÌNH HƠN Ở PHẦN NÀY NHÉ!
 
@@ -30,10 +29,10 @@ a[23]='đ';
 a[24]='â';
 a[25]='u';
 a[26]=' ';
-a[27]='h';
-a[28]='ì';
-a[29]='';
-a[30]='';
+a[27]='♥';
+a[28]=' ';
+a[29]=' ';
+a[30]=' ';
 a[31]=' ';
 a[32]=' ';
 a[33]=' ';
@@ -91,15 +90,14 @@ one()
 					$("#divResult").fadeIn(2000,function()
 							{
 							$("#divResult2").fadeOut(0);
-							$("#divResult2").html("<p>♥ Dù gì mình cũng có lỗi thật, làm HL giận. Nhưng bỏ qua nha ><.<img src='http://website1gia.com/files/assets/4.png'/></p></br>");
+							$("#divResult2").html("<p>♥ Dù gì mình cũng có lỗi thật, làm HL giận..<img src='http://website1gia.com/files/assets/4.png'/></p></br>");
 							$("#divResult2").fadeIn(2000,function()
 									{
 									$("#divResult3").fadeOut(0);
-									$("#divResult3").html("<p>Mốt chở lên TĐ ún 2land gần trọ, chịu hong <img src='https://i.imgur.com/OfgQ3o3.png'/></p></br>");
+									$("#divResult3").html("<p>Mốt chở về đi TĐ mua tà tữa cho ><  <img src='https://i.imgur.com/OfgQ3o3.png'/></p></br>");
 									$("#divResult3").fadeIn(2000);
 									}
 								);
 							}
 						);
 					}
-				
