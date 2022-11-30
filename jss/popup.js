@@ -90,7 +90,7 @@ one()
 					$("#divResult").fadeIn(2000,function()
 							{
 							$("#divResult2").fadeOut(0);
-							$("#divResult2").html("<p>♥ Dù gì mình cũng có lỗi thật, làm HL giận..<img src='http://website1gia.com/files/assets/4.png'/></p></br>");
+							$("#divResult2").html("<p>♥ Dù gì mình cũng có lỗi thật, làm HL giận.<img src='http://website1gia.com/files/assets/4.png'/></p></br>");
 							$("#divResult2").fadeIn(2000,function()
 									{
 									$("#divResult3").fadeOut(0);
